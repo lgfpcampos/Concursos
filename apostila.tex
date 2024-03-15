@@ -1,0 +1,49 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{fourier}
+\usepackage{hyperref}
+\usepackage{tcolorbox}
+\usepackage{qrcode}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{Luiz Guilherme}
+\rhead{Professor de Matemática}
+\usepackage{fontawesome}
+\usepackage{enumerate}
+\usepackage[Glenn]{fncychap}
+
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Professor LG}
+\title{Matemática e Raciocínio Lógico para Concursos}
+
+
+\newcommand{\questao}[4]
+{\begin{tcolorbox} {\textbf{#1}}
+{#2} 
+
+ \end{tcolorbox} \\ 
+ \begin{minipage}{12cm}   
+ \begin{enumerate}   
+ 	[a)]{#3} 
+ \end{enumerate}  
+ \end{minipage} 
+ \qrcode{#4&list=UULFeA_dOOqAA4DB92B_BWDU7Q} \\
+ \vspace{3mm}
+ \hline
+  \newpage}
+\begin{document}
+
+\maketitle
+\tableofcontents
+\chapter{VUNESP}
+\include{vunesp001}
+
+
+
+\end{document}
