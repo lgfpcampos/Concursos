@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  15 MAR 2024 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  18 MAR 2024 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -66,28 +66,28 @@ Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 3 in font nullfont!
+
+! LaTeX Error: Environment Large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{Large}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 ! Undefined control sequence.
-l.2 \questao
-            {Média Aritmética}{O gráfico apresenta o número de acertos n...
+l.4 \quest
+          {O gráfico apresenta o número de acertos na prova de Língua Por...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no M in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no g in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -224,7 +224,7 @@ Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
 <recently read> \includegraphics 
                                  
-l.3 \includegraphics
+l.5 \includegraphics
                     [scale=.5]{fig001.png}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -633,122 +633,112 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--6
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--8
 []
  []
 
 
-Overfull \hbox (8.88889pt too wide) in paragraph at lines 1--6
+Overfull \hbox (8.88889pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
-\/cmr/m/n/10 ^^Se
- []
-
-
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
-\/cmr/m/n/10 ^^Se
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--6
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 1--6
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--6
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--6
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Ra
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--6
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 1--8
 \/cmr/m/n/10 ^^Se
  []
 
@@ -759,7 +749,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \item 9
+l.8 \item 9
            .
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -773,7 +763,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 \item 2
+l.9 \item 2
            0.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -788,8 +778,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \item 1
-           0.
+l.10 \item 1
+            0.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -803,8 +793,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 \item 2
-           9.
+l.11 \item 2
+            9.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -818,8 +808,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 \item 2
-            7.}{https://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.12 \item 2
+            7.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -834,50 +824,62 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no ? in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no z in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no i in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no q in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.10 ....}{https://www.youtube.com/watch?v=hcdlzi_
-                                                  qYfc}
+l.13 {https://youtu.be/C0qCfQQ8gp4?si=EO70kioCq_
+                                                vUwKii\lista}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 13.
+! Undefined control sequence.
+l.13 ...u.be/C0qCfQQ8gp4?si=EO70kioCq_vUwKii\lista
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ! Extra }, or forgotten $.
-l.10 ...tps://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.13 ....be/C0qCfQQ8gp4?si=EO70kioCq_vUwKii\lista}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -888,19 +890,19 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.11 
+l.14 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 10--11
-[]\OML/cmm/m/it/10 Yfc$ 
+Overfull \hbox (36.19606pt too wide) in paragraph at lines 12--14
+[]\OML/cmm/m/it/10 UwKii$ 
  []
 
 ! Undefined control sequence.
-l.12 \questao
-             {Aritmética Modular}{ Uma empresa executa serviços aos seus c...
+l.16 \quest
+           {Uma empresa executa serviços aos seus clientes somente de segun...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -914,28 +916,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \questao{A
-               ritmética Modular}{ Uma empresa executa serviços aos seus c...
+l.16 \quest{U
+             ma empresa executa serviços aos seus clientes somente de segun...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no A in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
 Missing character: There is no U in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1062,7 +1048,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no X in font nullfont!
 ! Misplaced alignment tab character &.
-l.12 ...haver feriado ou não. Para seu cliente X&
+l.16 ...haver feriado ou não. Para seu cliente X&
                                                   W, ela executa serviços a...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1157,7 +1143,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no W in font nullfont!
 ! Misplaced alignment tab character &.
-l.12 ...domingos, enquanto que para seu cliente W&
+l.16 ...domingos, enquanto que para seu cliente W&
                                                   Z, ela executa serviços a...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1419,57 +1405,57 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
 
-Overfull \hbox (24.44444pt too wide) in paragraph at lines 12--14
-[]\/cmr/m/n/10 ^^Se
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--18
+[]
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 12--14
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 12--14
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 12--14
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 12--14
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 16--18
 \/cmr/m/n/10 ^^Xc
  []
 
@@ -1480,7 +1466,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 \item s
+l.18 \item s
             exta-feira.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1504,7 +1490,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 \item s
+l.19 \item s
             egunda-feira.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1530,7 +1516,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 \item q
+l.20 \item q
             uinta-feira.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1555,7 +1541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 \item q
+l.21 \item q
             uarta-feira.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1580,7 +1566,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.18 \item t
+l.22 \item t
             erça-feira.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1604,74 +1590,43 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no X in font nullfont!
 Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ? in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no i in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.19 {https://www.youtube.com/watch?v=hcdlzi_
-                                             qYfc}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.19 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.20 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Missing character: There is no N in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no U in font nullfont!
+! Undefined control sequence.
+l.23 {https://youtu.be/spEP8XtNQ4U\lista
+                                        }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 18--20
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 22--24
 \/cmr/m/n/10 ^^Xc
  []
 
-
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 18--20
-[]\OML/cmm/m/it/10 Yfc$ 
- []
-
 ! Undefined control sequence.
-l.21 \questao
-             {Média Aritmética, Razão e Proporção}
+l.25 \quest
+           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1685,37 +1640,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \questao{M
-               édia Aritmética, Razão e Proporção}
+l.26 {N
+       o ano de 2022, 3 em cada 8 edifícios comercializados em determinada ...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no M in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no R in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
 Missing character: There is no N in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1813,7 +1743,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no A in font nullfont!
 ! Misplaced alignment tab character &.
-l.22 ... foram adquiridos pelo empreen­dimento A&
+l.26 ... foram adquiridos pelo empreen­dimento A&
                                                   B, que investiu R\$ 1,35 b...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1944,7 +1874,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no A in font nullfont!
 ! Misplaced alignment tab character &.
-l.22 ...ios não adquiridos pelo empreendimento A&
+l.26 ...ios não adquiridos pelo empreendimento A&
                                                   B e que foram comercializa...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2009,7 +1939,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no R in font nullfont!
 ! Misplaced alignment tab character &.
-l.22 ...dos naquela r­egião, o empreendimento R&
+l.26 ...dos naquela r­egião, o empreendimento R&
                                                   T adquiriu metade, ao cust...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2105,7 +2035,7 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no R in font nullfont!
 ! Misplaced alignment tab character &.
-l.22 ...�o médio, por edifício adquirido pela R&
+l.26 ...�o médio, por edifício adquirido pela R&
                                                   T, fosse de}
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2124,112 +2054,97 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (24.44444pt too wide) in paragraph at lines 21--23
-[]\/cmr/m/n/10 ^^Se
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+[]
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 21--23
-\/cmr/m/n/10 ^^Se
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
-\/cmr/m/n/10 ~a
- []
-
-
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 21--23
-\/cmr/m/n/10 ^^Xc~a
- []
-
-
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 21--23
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 26--27
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 21--23
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 26--27
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~o
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 21--23
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 21--23
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^S^^P
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 26--27
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--23
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 21--23
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (2.77779pt too wide) in paragraph at lines 21--23
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 26--27
 \/cmr/m/n/10 ^^S^^P
  []
 
@@ -2240,7 +2155,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 {\item R
+l.27 {\item R
              \$ 16,3 milhões.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2258,12 +2173,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 23--24
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 27--28
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 23--24
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 27--28
 \/cmr/m/n/10 ~o 
  []
 
@@ -2274,7 +2189,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \item R
+l.28 \item R
             \$ 16,1 milhões.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2292,12 +2207,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 24--25
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 28--29
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 24--25
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 28--29
 \/cmr/m/n/10 ~o 
  []
 
@@ -2308,7 +2223,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \item R
+l.29 \item R
             \$ 16,5 milhões.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2326,12 +2241,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 25--26
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 29--30
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 25--26
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 29--30
 \/cmr/m/n/10 ~o 
  []
 
@@ -2342,7 +2257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \item R
+l.30 \item R
             \$ 16,4 milhões.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2360,12 +2275,12 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 26--27
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 30--31
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 26--27
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 30--31
 \/cmr/m/n/10 ~o 
  []
 
@@ -2376,7 +2291,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \item R
+l.31 \item R
             \$ 16,2 milhões.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2393,87 +2308,28 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ? in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no i in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.28 {https://www.youtube.com/watch?v=hcdlzi_
-                                             qYfc}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.28 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.29 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+! Undefined control sequence.
+l.32 {\canal
+            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (4.99878pt too wide) in paragraph at lines 27--29
+Overfull \hbox (4.99878pt too wide) in paragraph at lines 31--33
 \TS1/cmr/m/n/10 $
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 27--29
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 31--33
 \/cmr/m/n/10 ~o
  []
 
-
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 27--29
-[]\OML/cmm/m/it/10 Yfc$ 
- []
-
 ! Undefined control sequence.
-l.31 \questao
-             {}
+l.35 \quest
+           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2487,7 +2343,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 {C
+l.36 {C
        onsidere as informações apresentadas na tabela a seguir, relacionad...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2659,7 +2515,7 @@ Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
 <recently read> \includegraphics 
                                  
-l.34 \includegraphics
+l.38 \includegraphics
                      [scale=.5]{fig002}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2988,107 +2844,107 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 32--37
+Overfull \hbox (20.0pt too wide) in paragraph at lines 36--41
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 32--37
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Ra
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 32--37
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 32--37
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc~a 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 32--37
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc~o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Xc
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 32--37
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 32--37
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 36--41
 \/cmr/m/n/10 ^^Sa
  []
 
@@ -3099,7 +2955,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 \item 8
+l.41 \item 8
              horas.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3118,7 +2974,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 \item 7
+l.42 \item 7
              horas.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3137,7 +2993,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 \item 9
+l.43 \item 9
              horas.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3156,7 +3012,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \item 8
+l.44 \item 8
              horas e 30 minutos.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3185,7 +3041,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \item 7
+l.45 \item 7
              horas e 30 minutos.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3207,76 +3063,17 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no ? in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no i in font nullfont!
-! Missing $ inserted.
-<inserted text> 
-                $
-l.42 {https://www.youtube.com/watch?v=hcdlzi_
-                                             qYfc}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.42 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.43 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 41--43
-[]\OML/cmm/m/it/10 Yfc$ 
- []
+! Undefined control sequence.
+l.46 {\canal
+            }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.44 \questao
+l.48 \questao
              {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3291,7 +3088,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 {S
+l.49 {S
        abendo-se que é falsidade a afirmação “Se Nora trabalhou, então...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3421,37 +3218,37 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 45--48
+Overfull \hbox (20.0pt too wide) in paragraph at lines 49--52
 []
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 45--48
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 45--48
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 45--48
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 \
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 45--48
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 45--48
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 "
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 45--48
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 49--52
 \/cmr/m/n/10 ^^Xc~a
  []
 
@@ -3462,7 +3259,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 \item N
+l.52 \item N
             ora trabalhou e ela não precisa descansar.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3504,7 +3301,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 48--49
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 52--53
 \/cmr/m/n/10 ~a 
  []
 
@@ -3515,7 +3312,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 \item N
+l.53 \item N
             ora não trabalhou e ela não precisa descansar.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3559,12 +3356,12 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 49--50
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 53--54
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 49--50
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 53--54
 \/cmr/m/n/10 ~a 
  []
 
@@ -3575,7 +3372,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.50 \item N
+l.54 \item N
             ora trabalhou e ela precisa descansar.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3621,7 +3418,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 \item N
+l.55 \item N
             ora não trabalhou ou ela precisa descansar.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3664,7 +3461,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 51--52
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 55--56
 \/cmr/m/n/10 ~a
  []
 
@@ -3675,7 +3472,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.52 \item N
+l.56 \item N
             ora não trabalhou e ela precisa descansar.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3757,13 +3554,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.53 {https://www.youtube.com/watch?v=hcdlzi_
+l.57 {https://www.youtube.com/watch?v=hcdlzi_
                                              qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.53 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.57 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3774,23 +3571,23 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.54 
+l.58 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 52--54
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 56--58
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 52--54
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 56--58
 []\OML/cmm/m/it/10 Yfc$ 
  []
 
 ! Undefined control sequence.
-l.55 \questao
+l.59 \questao
              {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3805,7 +3602,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.56 {C
+l.60 {C
        onsidere verdadeiras as seguintes premissas:
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3852,7 +3649,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 56--57
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--61
 []
  []
 
@@ -3863,7 +3660,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 \begin{enumerate}[
+l.61 \begin{enumerate}[
                        I.]
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3879,7 +3676,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 \item S
+l.62 \item S
             e Carla não é casada ou Pedro não é divorciado, então Cláu...
 
 Try typing  <return>  to proceed.
@@ -3892,7 +3689,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 \item S
+l.62 \item S
             e Carla não é casada ou Pedro não é divorciado, então Cláu...
 
 Try typing  <return>  to proceed.
@@ -3905,7 +3702,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.58 \item S
+l.62 \item S
             e Carla não é casada ou Pedro não é divorciado, então Cláu...
 
 Try typing  <return>  to proceed.
@@ -3973,7 +3770,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 \item S
+l.63 \item S
             e Sônia é mãe, então Carla não é casada.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3985,7 +3782,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 \item S
+l.63 \item S
             e Sônia é mãe, então Carla não é casada.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3997,7 +3794,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.59 \item S
+l.63 \item S
             e Sônia é mãe, então Carla não é casada.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4036,7 +3833,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \item S
+l.64 \item S
             e Pedro não é divorciado, então Sergio não é administrador ...
 
 Try typing  <return>  to proceed.
@@ -4049,7 +3846,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \item S
+l.64 \item S
             e Pedro não é divorciado, então Sergio não é administrador ...
 
 Try typing  <return>  to proceed.
@@ -4062,7 +3859,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \item S
+l.64 \item S
             e Pedro não é divorciado, então Sergio não é administrador ...
 
 Try typing  <return>  to proceed.
@@ -4133,7 +3930,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \item C
+l.65 \item C
             láudio não é filho único.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4145,7 +3942,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \item C
+l.65 \item C
             láudio não é filho único.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4157,7 +3954,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 \item C
+l.65 \item C
             láudio não é filho único.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4187,128 +3984,128 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 \end{enumerate}
+l.66 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 []\/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 57--62
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 57--62
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 61--66
 \/cmr/m/n/10 ^^Su 
  []
 
@@ -4406,17 +4203,17 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 63--66
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 67--70
  \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 63--66
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 67--70
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 63--66
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 67--70
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -4427,7 +4224,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66 \item G
+l.70 \item G
             erson é noivo.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4445,7 +4242,7 @@ Missing character: There is no v in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 66--67
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 70--71
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -4456,7 +4253,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 \item S
+l.71 \item S
             ergio não é administrador.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4484,12 +4281,12 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 67--68
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--72
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 67--68
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 71--72
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -4500,7 +4297,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 \item S
+l.72 \item S
             ônia não é mãe.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4515,22 +4312,22 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 68--69
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 72--73
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 68--69
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 72--73
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 68--69
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 72--73
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 68--69
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 72--73
 \/cmr/m/n/10 ~a 
  []
 
@@ -4541,7 +4338,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \item S
+l.73 \item S
             ônia é mãe.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4554,17 +4351,17 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 69--70
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 73--74
 \/cmr/m/n/10 ^o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 69--70
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 73--74
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 69--70
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 73--74
 \/cmr/m/n/10 ~a 
  []
 
@@ -4575,7 +4372,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 \item S
+l.74 \item S
             ergio é administrador.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4641,13 +4438,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.71 {https://www.youtube.com/watch?v=hcdlzi_
+l.75 {https://www.youtube.com/watch?v=hcdlzi_
                                              qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.71 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.75 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4658,38 +4455,23 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.72 
+l.76 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 70--72
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 74--76
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 70--72
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 74--76
 []\OML/cmm/m/it/10 Yfc$ 
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 
-     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 ! Undefined control sequence.
-l.73 \questao
+l.77 \questao
              {}{Sobre um grupo de atletas sabe-se que 15 praticam natação,...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4704,7 +4486,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 \questao{}{S
+l.77 \questao{}{S
                  obre um grupo de atletas sabe-se que 15 praticam natação,...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5113,70 +4895,85 @@ Missing character: There is no u in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 73--77
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--81
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 73--77
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 73--77
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 73--77
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 73--77
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 73--77
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 73--77
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 73--77
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 73--77
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 73--77
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 73--77
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 73--77
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 73--77
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 77--81
 \/cmr/m/n/10 ^^Se 
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \item 1
+            2\%
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 ! LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -5184,7 +4981,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 \item 1
+l.81 \item 1
             2\%
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5199,7 +4996,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 \item 1
+l.82 \item 1
             8\%
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5214,7 +5011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.79 \item 2
+l.83 \item 2
             0\%
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5229,7 +5026,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.80 \item 1
+l.84 \item 1
             6\%
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5244,7 +5041,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 \item 1
+l.85 \item 1
             4\%}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5293,13 +5090,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.82 {https://www.youtube.com/watch?v=hcdlzi_
+l.86 {https://www.youtube.com/watch?v=hcdlzi_
                                              qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.82 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.86 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5310,18 +5107,18 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.83 
+l.87 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 81--83
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 85--87
 []\OML/cmm/m/it/10 Yfc$ 
  []
 
 ! Undefined control sequence.
-l.84 \questao
+l.88 \questao
              {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5336,7 +5133,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 {N
+l.89 {N
        a sequência numérica 1, 4, 7, 8, 11,14, 19, 22, 25, 26, 29, 32, 37,...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5458,47 +5255,47 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no o in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 85--87
+Overfull \hbox (20.0pt too wide) in paragraph at lines 89--91
 []
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^e
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (4.44336pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44336pt too wide) in paragraph at lines 89--91
 \TS1/cmr/m/n/10 �
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 85--87
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^^Su
  []
 
 
-Overfull \hbox (4.44336pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44336pt too wide) in paragraph at lines 89--91
 \TS1/cmr/m/n/10 �
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 85--87
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.55557pt too wide) in paragraph at lines 85--87
+Overfull \hbox (5.55557pt too wide) in paragraph at lines 89--91
 \/cmr/m/n/10 ^^Su 
  []
 
@@ -5509,7 +5306,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \item 3
+l.91 \item 3
             3 332.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5527,7 +5324,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 \item 3
+l.92 \item 3
             1 111.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5545,7 +5342,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 \item 3
+l.93 \item 3
             3 115.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5563,7 +5360,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 \item 3
+l.94 \item 3
             3 329.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5581,7 +5378,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.91 \item 3
+l.95 \item 3
             2 228.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5633,13 +5430,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.92 {https://www.youtube.com/watch?v=hcdlzi_
+l.96 {https://www.youtube.com/watch?v=hcdlzi_
                                              qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.92 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.96 {https://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5650,18 +5447,18 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.93 
+l.97 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 91--93
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 95--97
 []\OML/cmm/m/it/10 Yfc$ 
  []
 
 ! Undefined control sequence.
-l.94 \questao
+l.98 \questao
              {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5676,7 +5473,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 {C
+l.99 {C
        onsidere a seguinte afirmação: “Ou durmo ou trabalho”. Uma nega...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5763,42 +5560,42 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 95--97
+Overfull \hbox (20.0pt too wide) in paragraph at lines 99--101
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 \
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 "
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 95--97
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 ^^So
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 95--97
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 95--97
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 99--101
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -5809,8 +5606,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 \item O
-            u não durmo ou não trabalho.
+l.101 \item O
+             u não durmo ou não trabalho.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5837,12 +5634,12 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 101--102
 \/cmr/m/n/10 ~a 
  []
 
@@ -5853,8 +5650,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 \item T
-            rabalho ou durmo.
+l.102 \item T
+             rabalho ou durmo.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5881,8 +5678,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.99 \item S
-            e não durmo, então não trabalho.
+l.103 \item S
+             e não durmo, então não trabalho.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -5912,17 +5709,17 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--100
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 103--104
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--100
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 103--104
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 99--100
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 103--104
 \/cmr/m/n/10 ~a 
  []
 
@@ -5933,7 +5730,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 \item N
+l.104 \item N
              ão trabalho e não durmo.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5958,12 +5755,12 @@ Missing character: There is no m in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 100--101
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 104--105
 \/cmr/m/n/10 ~a 
  []
 
@@ -5974,7 +5771,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 \item D
+l.105 \item D
              urmo se, e somente se, trabalho.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6048,13 +5845,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.102 {https://www.youtube.com/watch?v=hcdlzi_
+l.106 {https://www.youtube.com/watch?v=hcdlzi_
                                               qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.102 ...ps://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.106 ...ps://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6065,18 +5862,18 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.103 
+l.107 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 101--103
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 105--107
 []\OML/cmm/m/it/10 Yfc$ 
  []
 
 ! Undefined control sequence.
-l.104 \questao
+l.108 \questao
               {}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6091,7 +5888,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 {C
+l.109 {C
         onsidere verdadeira a afirmação “Se Marcelo é professor univers...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6271,82 +6068,82 @@ Missing character: There is no q in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no e in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 105--108
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--112
 []
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 105--108
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 \
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--108
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--108
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 "
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 105--108
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Xc~a
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 \
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--108
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--108
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 105--108
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 " 
  []
 
 
-Overfull \hbox (9.44446pt too wide) in paragraph at lines 105--108
+Overfull \hbox (9.44446pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Xc~o
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 105--108
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--112
 \/cmr/m/n/10 ^^Se
  []
 
@@ -6357,7 +6154,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.108 \item M
+l.112 \item M
              arcelo não é professor universitário.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6394,17 +6191,17 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 108--109
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 112--113
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 108--109
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--113
 \/cmr/m/n/10 ^^Sa 
  []
 
@@ -6415,7 +6212,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.109 \item R
+l.113 \item R
              aquel não é advogada.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6438,12 +6235,12 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 109--110
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 113--114
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 109--110
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 113--114
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -6454,7 +6251,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 \item M
+l.114 \item M
              arcelo é professor universitário.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6489,12 +6286,12 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 110--111
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 114--115
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 110--111
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--115
 \/cmr/m/n/10 ^^Sa 
  []
 
@@ -6505,7 +6302,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 \item M
+l.115 \item M
              arcelo é professor universitário ou Raquel não é advogada.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6558,22 +6355,22 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 111--112
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 111--112
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ^^Sa
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 111--112
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ~a
  []
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 111--112
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 115--116
 \/cmr/m/n/10 ^^Se 
  []
 
@@ -6584,7 +6381,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 \item R
+l.116 \item R
              aquel é advogada.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6645,13 +6442,13 @@ Missing character: There is no i in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.113 {https://www.youtube.com/watch?v=hcdlzi_
+l.117 {https://www.youtube.com/watch?v=hcdlzi_
                                               qYfc}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.113 ...ps://www.youtube.com/watch?v=hcdlzi_qYfc}
+l.117 ...ps://www.youtube.com/watch?v=hcdlzi_qYfc}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6662,20 +6459,110 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.114 
+l.118 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (4.44444pt too wide) in paragraph at lines 112--114
+Overfull \hbox (4.44444pt too wide) in paragraph at lines 116--118
 \/cmr/m/n/10 ^^Se
  []
 
 
-Overfull \hbox (22.74394pt too wide) in paragraph at lines 112--114
+Overfull \hbox (22.74394pt too wide) in paragraph at lines 116--118
 []\OML/cmm/m/it/10 Yfc$ 
  []
+
+
+! LaTeX Error: \begin{document} ended by \end{Large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \end{Large}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.121 \end{Large}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 )
 ! Emergency stop.
@@ -6685,11 +6572,11 @@ Overfull \hbox (22.74394pt too wide) in paragraph at lines 112--114
 
  
 Here is how much of TeX's memory you used:
- 48 strings out of 478287
- 747 string characters out of 5849289
- 304007 words of memory out of 5000000
- 18341 multiletter control sequences out of 15000+600000
+ 49 strings out of 478287
+ 755 string characters out of 5849289
+ 305007 words of memory out of 5000000
+ 18342 multiletter control sequences out of 15000+600000
  469594 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,5n,32p,652b,121s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,5n,32p,628b,129s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

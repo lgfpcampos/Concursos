@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{report}
+\documentclass[12pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[portuguese]{babel}
 \usepackage[T1]{fontenc}
@@ -7,42 +7,38 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 \usepackage{fourier}
-\usepackage{hyperref}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Luiz Guilherme - Professor de Matemática}
+\title{Matemática para Concursos Públicos}
+\date{Última atualização:  \today} 
+\usepackage{tikz}
 \usepackage{tcolorbox}
+\usepackage{hyperref}
 \usepackage{qrcode}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\lhead{Luiz Guilherme}
-\rhead{Professor de Matemática}
+\usepackage{xcolor}
 \usepackage{fontawesome}
 \usepackage{enumerate}
-\usepackage[Glenn]{fncychap}
+\usepackage{multicol}
 
-\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
-\author{Professor LG}
-\title{Matemática e Raciocínio Lógico para Concursos}
-
-
-\newcommand{\questao}[4]
-{\begin{tcolorbox} {\textbf{#1}}
-{#2} 
-
- \end{tcolorbox} \\ 
- \begin{minipage}{12cm}   
- \begin{enumerate}   
- 	[a)]{#3} 
- \end{enumerate}  
- \end{minipage} 
- \qrcode{#4&list=UULFeA_dOOqAA4DB92B_BWDU7Q} \\
- \vspace{3mm}
- \hline
-  \newpage}
 \begin{document}
 
+\newcommand{\quest}[4]{
+	\textbf{#1} {\color{red}\faYoutubePlay}\\ % Banca e Concurso
+	 {#2}\\ %enunciado
+		\begin{minipage}{12cm}
+		\begin{enumerate}[a)]
+			{#3} %alternativas
+		\end{enumerate}
+	\end{minipage}
+	\qrcode{#4&list=UULFeA_dOOqAA4DB92B_BWDU7Q}} %youtube
+
+
 \maketitle
-\tableofcontents
-\chapter{VUNESP}
-\include{vunesp001}
+\tableofcontents	
+\begin{enumerate}
+
+\include{media-aritmetica-simples-e-ponderada}
+\end{enumerate}
 
 
 
