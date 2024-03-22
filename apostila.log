@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  21 MAR 2024 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  22 MAR 2024 17:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -889,7 +889,14 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count344
 \l__pdf_internal_box=\box116
 )
-(./apostila.aux (./media-aritmetica-simples-e-ponderada.aux
+(./apostila.aux
+<Reading QR code for "https://docs.google.com/viewer?url=https://raw.githubuser
+content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
+>
+(./maximo-divisor-comum-e-minimo-multiplo-comum.aux
+<Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./media-aritmetica-simples-e-ponderada.aux
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ))
@@ -1046,54 +1053,87 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 37.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 37.
- (./apostila.toc)
+
+
+
+<QR code requested for "https://docs.google.com/viewer?url=https://raw.githubus
+ercontent.com/lgfpcampos/Concursos/main/apostila.pdf" in version 0-M.>
+
+<Copying the QR code for "https://docs.google.com/viewer?url=https://raw.github
+usercontent.com/lgfpcampos/Concursos/main/apostila.pdf" in version 7-M as previ
+ously calculated.>
+(./apostila.toc)
 \tf@toc=\write5
 \openout5 = `apostila.toc'.
 
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-\openout2 = `media-aritmetica-simples-e-ponderada.aux'.
+\openout2 = `maximo-divisor-comum-e-minimo-multiplo-comum.aux'.
 
 
-(./media-aritmetica-simples-e-ponderada.tex
+(./maximo-divisor-comum-e-minimo-multiplo-comum.tex
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 12.
+nput line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-<fig001.png, id=20, 417.81094pt x 416.30531pt>
+! Misplaced alignment tab character &.
+<argument> ...feriado ou não. Para seu cliente X&
+                                                  W, ela executa serviços a...
+l.10 {https://youtu.be/o07aeZ4jtj4}
+                                   
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<argument> ...os, enquanto que para seu cliente W&
+                                                  Z, ela executa serviços a...
+l.10 {https://youtu.be/o07aeZ4jtj4}
+                                   
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 10.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 10.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 10.
+
+
+
+<QR code requested for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [2
+
+]
+\openout2 = `media-aritmetica-simples-e-ponderada.aux'.
+
+ (./media-aritmetica-simples-e-ponderada.tex
+<fig001.png, id=38, 417.81094pt x 416.30531pt>
 File: fig001.png Graphic file (type png)
 <use fig001.png>
 Package pdftex.def Info: fig001.png  used on input line 12.
 (pdftex.def)             Requested size: 208.90495pt x 208.15215pt.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 {https://youtu.be/BvsQZctqarQ}
-                                   
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 12.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 12.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 12.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 12.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 12.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 12.
 
 
 
@@ -1102,33 +1142,41 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [2
+) [3
+
+
 
  <./fig001.png (PNG copy)>] (./apostila.aux
-(./media-aritmetica-simples-e-ponderada.aux
+<Reading QR code for "https://docs.google.com/viewer?url=https://raw.githubuser
+content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
+>
+(./maximo-divisor-comum-e-minimo-multiplo-comum.aux
+<Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./media-aritmetica-simples-e-ponderada.aux
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ))
 Package rerunfilecheck Info: File `apostila.out' has not changed.
-(rerunfilecheck)             Checksum: 99C6AB24DA2BDC6AFD7075ED669F99C1;241.
+(rerunfilecheck)             Checksum: 2BC6DCBEBAC83B4B8FB31F89B454179F;539.
  ) 
 Here is how much of TeX's memory you used:
- 27377 strings out of 478287
- 502778 string characters out of 5849289
- 824097 words of memory out of 5000000
- 45113 multiletter control sequences out of 15000+600000
+ 27418 strings out of 478287
+ 505002 string characters out of 5849289
+ 902877 words of memory out of 5000000
+ 45139 multiletter control sequences out of 15000+600000
  534967 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,1341b,471s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,6n,89p,2321b,500s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
 nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/adobe/utopia/putr8a.pfb>
-Output written on apostila.pdf (2 pages, 61717 bytes).
+Output written on apostila.pdf (3 pages, 71237 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -10,7 +10,7 @@
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \author{Luiz Guilherme - Professor de Matemática}
 \title{Matemática para Concursos Públicos}
-\date{Última atualização:  \today} 
+\date{Última atualização:  \today \\ \qrcode{https://docs.google.com/viewer?url=https://raw.githubusercontent.com/lgfpcampos/Concursos/main/apostila.pdf}} 
 \usepackage{tikz}
 \usepackage{tcolorbox}
 \usepackage{hyperref}
@@ -22,11 +22,11 @@
 
 \begin{document}
 
-\newcommand{\quest}[4]{
+\newcommand{\quest}[4]{\item 
 	\textbf{#1} {\color{red}\faYoutubePlay}\\ % Banca e Concurso
 	 {#2}\\ %enunciado
 		\begin{minipage}{12cm}
-		\begin{enumerate}[a)]
+		\begin{enumerate}
 			{#3} %alternativas
 		\end{enumerate}
 	\end{minipage}
@@ -35,8 +35,9 @@
 
 \maketitle
 \tableofcontents	
-\begin{enumerate}
 
+\begin{enumerate}
+\include{maximo-divisor-comum-e-minimo-multiplo-comum}
 \include{media-aritmetica-simples-e-ponderada}
 \end{enumerate}
 
