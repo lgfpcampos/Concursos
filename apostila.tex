@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper]{article}
+\documentclass[12pt,a4paper]{report}
 \usepackage[utf8]{inputenc}
 \usepackage[portuguese]{babel}
 \usepackage[T1]{fontenc}
@@ -18,11 +18,12 @@
 \usepackage{xcolor}
 \usepackage{fontawesome}
 \usepackage{enumerate}
+\usepackage[Bjornstrup]{fncychap}
 \usepackage{multicol}
 
 \begin{document}
 
-\newcommand{\quest}[4]{\item 
+\newcommand{\quest}[4]{ \item 
 	\textbf{#1} {\color{red}\faYoutubePlay}\\ % Banca e Concurso
 	 {#2}\\ %enunciado
 		\begin{minipage}{12cm}
@@ -39,6 +40,7 @@
 \begin{enumerate}
 \include{maximo-divisor-comum-e-minimo-multiplo-comum}
 \include{media-aritmetica-simples-e-ponderada}
+\include{razao-e-proporcao}
 \end{enumerate}
 
 
