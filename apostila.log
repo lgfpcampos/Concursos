@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  9 APR 2024 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  10 APR 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -904,7 +904,10 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 <Reading QR code for "https://docs.google.com/viewer?url=https://raw.githubuser
 content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
 >
-(./maximo-divisor-comum-e-minimo-multiplo-comum.aux
+(./conjuntos.aux
+<Reading QR code for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./maximo-divisor-comum-e-minimo-multiplo-comum.aux
 <Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./media-aritmetica-simples-e-ponderada.aux
@@ -918,6 +921,9 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ) (./raciocinio-logico.aux
 <Reading QR code for "https://youtu.be/DQVfJCeKXF8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ))
 \openout1 = `apostila.aux'.
@@ -1098,14 +1104,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 ...imo-divisor-comum-e-minimo-multiplo-comum}
-                                                   [1
+l.43 \include{conjuntos}
+                         [1
 
 ]
-\openout2 = `maximo-divisor-comum-e-minimo-multiplo-comum.aux'.
+\openout2 = `conjuntos.aux'.
 
-
-(./maximo-divisor-comum-e-minimo-multiplo-comum.tex
+ (./conjuntos.tex
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1
 .
@@ -1122,16 +1127,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! You can't use `\prevdepth' in horizontal mode.
 \nointerlineskip ->\prevdepth 
                               -\@m \p@ 
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
@@ -1140,8 +1145,8 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1160,8 +1165,8 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 ! Missing number, treated as zero.
 <to be read again> 
                    \protect 
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1169,8 +1174,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -1181,8 +1186,8 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1193,8 +1198,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1210,8 +1215,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...mo Divisor Comum e Mínimo Múltiplo Comum}
-                                                  
+l.1 \chapter{Conjuntos}
+                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1225,6 +1230,31 @@ nput line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
+
+
+<QR code requested for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [2
+
+
+]
+\openout2 = `maximo-divisor-comum-e-minimo-multiplo-comum.aux'.
+
+ (./maximo-divisor-comum-e-minimo-multiplo-comum.tex
+Cap\'{\i }tulo 2.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
 ! Misplaced alignment tab character &.
 <argument> ...feriado ou não. Para seu cliente X&
                                                   W, ela executa serviços a...
@@ -1257,14 +1287,16 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [2
+) [3
+
+
 
 
 ]
 \openout2 = `media-aritmetica-simples-e-ponderada.aux'.
 
  (./media-aritmetica-simples-e-ponderada.tex
-Cap\'{\i }tulo 2.
+Cap\'{\i }tulo 3.
 
 Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
@@ -1275,7 +1307,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-<fig001.png, id=58, 417.81094pt x 416.30531pt>
+<fig001.png, id=74, 417.81094pt x 416.30531pt>
 File: fig001.png Graphic file (type png)
 <use fig001.png>
 Package pdftex.def Info: fig001.png  used on input line 11.
@@ -1288,7 +1320,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [3
+) [4
 
 
 
@@ -1297,7 +1329,7 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `razao-e-proporcao.aux'.
 
  (./razao-e-proporcao.tex
-Cap\'{\i }tulo 3.
+Cap\'{\i }tulo 4.
 
 Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
@@ -1364,7 +1396,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [4
+) [5
 
 
 
@@ -1373,7 +1405,7 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `regra-de-tres-simples-e-composta.aux'.
 
  (./regra-de-tres-simples-e-composta.tex
-Cap\'{\i }tulo 4.
+Cap\'{\i }tulo 5.
 
 Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
@@ -1384,7 +1416,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-<fig002.png, id=81, 496.10344pt x 223.58531pt>
+<fig002.png, id=97, 496.10344pt x 223.58531pt>
 File: fig002.png Graphic file (type png)
 <use fig002.png>
 Package pdftex.def Info: fig002.png  used on input line 15.
@@ -1397,7 +1429,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/mVp0Bf8s8J4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [5
+) [6
 
 
 
@@ -1406,7 +1438,7 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `raciocinio-logico.aux'.
 
  (./raciocinio-logico.tex
-Cap\'{\i }tulo 5.
+Cap\'{\i }tulo 6.
 
 Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][][][]  
@@ -1431,31 +1463,9 @@ _BWDU7Q" in version 4-M as previously calculated.>
 <QR code requested for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B_B
 WDU7Q" in version 0-M.>
 
-<Calculating QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B
-_BWDU7Q" in version 4-M.>
-<Splitting off block 1> <Splitting off block 2> <Making error block 1>
-<Making error block 2> <Interleaving datablocks of length 32\ and 33:  1, 2,
-3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,
-24, 25, 26, 27, 28, 29, 30, 31, 32, .>
-<Interleaving errorblocks of length 18:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
-12, 13, 14, 15, 16, 17, 18, .><Interleaving complete.> <Writing data...
-done.>
-<Applying Mask 0... done. Calculating penalty... penalty is 1373>
-<Applying Mask 1... done. Calculating penalty... penalty is 1295>
-<Applying Mask 2... done. Calculating penalty... penalty is 1528>
-<Applying Mask 3... done. Calculating penalty... penalty is 1352>
-<Applying Mask 4... done. Calculating penalty... penalty is 1406>
-<Applying Mask 5... done. Calculating penalty... penalty is 1415>
-<Applying Mask 6... done. Calculating penalty... penalty is 1539>
-<Applying Mask 7... done. Calculating penalty... penalty is 1391>
-<Selected Mask 1>
-<Encoding and writing format string... done.>
-<Encoding and writing version information... done.>
-<Saving QR code to memory... done.>
-<Writing QR code to aux file... done.>
-<Printing matrix... done.>
-
-) [6
+<Copying the QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [7
 
 
 
@@ -1464,7 +1474,10 @@ done.>
 <Reading QR code for "https://docs.google.com/viewer?url=https://raw.githubuser
 content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
 >
-(./maximo-divisor-comum-e-minimo-multiplo-comum.aux
+(./conjuntos.aux
+<Reading QR code for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./maximo-divisor-comum-e-minimo-multiplo-comum.aux
 <Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./media-aritmetica-simples-e-ponderada.aux
@@ -1484,16 +1497,16 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ))
 Package rerunfilecheck Info: File `apostila.out' has not changed.
-(rerunfilecheck)             Checksum: 74B0240D31A7FA3A35AEE2DD235439E7;1032.
+(rerunfilecheck)             Checksum: F904DF69884C20F6CE29523EB71E449C;1120.
  ) 
 Here is how much of TeX's memory you used:
- 30982 strings out of 478287
- 564656 string characters out of 5849289
- 906957 words of memory out of 5000000
- 48635 multiletter control sequences out of 15000+600000
+ 27741 strings out of 478287
+ 512789 string characters out of 5849289
+ 909703 words of memory out of 5000000
+ 45379 multiletter control sequences out of 15000+600000
  533341 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,6n,257p,2321b,1972s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,6n,89p,2321b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
 nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf
 /fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
@@ -1502,10 +1515,10 @@ ype1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia
 /putr8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on apostila.pdf (7 pages, 156184 bytes).
+Output written on apostila.pdf (8 pages, 160488 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 52 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
