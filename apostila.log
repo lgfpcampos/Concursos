@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  10 APR 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  14 APR 2024 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -825,6 +825,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \py=\skip60
 \pyy=\skip61
 \pxx=\skip62
+\backskip=\skip63
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
@@ -840,8 +841,8 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \page@free=\dimen271
 \premulticols=\dimen272
 \postmulticols=\dimen273
-\multicolsep=\skip63
-\multicolbaselineskip=\skip64
+\multicolsep=\skip64
+\multicolbaselineskip=\skip65
 \partial@page=\box72
 \last@line=\box73
 \maxbalancingoverflow=\dimen274
@@ -912,6 +913,9 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ) (./media-aritmetica-simples-e-ponderada.aux
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sequencias.aux
+<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./razao-e-proporcao.aux
 <Reading QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B_BWD
@@ -1090,13 +1094,7 @@ usercontent.com/lgfpcampos/Concursos/main/apostila.pdf" in version 7-M as previ
 ously calculated.>
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 4
-0.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (./apostila.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./apostila.toc)
 \tf@toc=\write5
 \openout5 = `apostila.toc'.
 
@@ -1112,85 +1110,11 @@ l.43 \include{conjuntos}
 
  (./conjuntos.tex
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
 .
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pzc.fd
-File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 1.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \chapter{Conjuntos}
-                       
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! You can't use `\prevdepth' in horizontal mode.
-\nointerlineskip ->\prevdepth 
-                              -\@m \p@ 
-l.1 \chapter{Conjuntos}
-                       
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1 \chapter{Conjuntos}
-                       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 1.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 1.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 1.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 1.
-! Missing number, treated as zero.
-<to be read again> 
-                   \protect 
-l.1 \chapter{Conjuntos}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \protect 
-l.1 \chapter{Conjuntos}
-                       
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1 \chapter{Conjuntos}
-                       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -1204,11 +1128,6 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (43.7067pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]\T1/futs/m/n/12 - 
- []
-
-
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1219,17 +1138,25 @@ l.1 \chapter{Conjuntos}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (9.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
 nput line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 10.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 10.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 10.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 10.
+
 
 
 <QR code requested for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_B
@@ -1245,16 +1172,6 @@ _BWDU7Q" in version 4-M as previously calculated.>
 
  (./maximo-divisor-comum-e-minimo-multiplo-comum.tex
 Cap\'{\i }tulo 2.
-
-Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]  
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
-
 ! Misplaced alignment tab character &.
 <argument> ...feriado ou não. Para seu cliente X&
                                                   W, ela executa serviços a...
@@ -1297,17 +1214,7 @@ _BWDU7Q" in version 4-M as previously calculated.>
 
  (./media-aritmetica-simples-e-ponderada.tex
 Cap\'{\i }tulo 3.
-
-Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]  
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
-
-<fig001.png, id=74, 417.81094pt x 416.30531pt>
+<fig001.png, id=78, 417.81094pt x 416.30531pt>
 File: fig001.png Graphic file (type png)
 <use fig001.png>
 Package pdftex.def Info: fig001.png  used on input line 11.
@@ -1326,20 +1233,32 @@ _BWDU7Q" in version 4-M as previously calculated.>
 
 
  <./fig001.png (PNG copy)>]
+\openout2 = `sequencias.aux'.
+
+ (./sequencias.tex
+Cap\'{\i }tulo 4.
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
+9.
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+
+
+<QR code requested for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [5
+
+
+
+
+]
 \openout2 = `razao-e-proporcao.aux'.
 
  (./razao-e-proporcao.tex
-Cap\'{\i }tulo 4.
-
-Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]  
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
-
+Cap\'{\i }tulo 5.
 ! Misplaced alignment tab character &.
 <argument> ...am adquiridos pelo empreendimento A&
                                                   B, que investiu R\$ 1,35 b...
@@ -1396,7 +1315,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [5
+) [6
 
 
 
@@ -1405,18 +1324,8 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `regra-de-tres-simples-e-composta.aux'.
 
  (./regra-de-tres-simples-e-composta.tex
-Cap\'{\i }tulo 5.
-
-Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]  
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
-
-<fig002.png, id=97, 496.10344pt x 223.58531pt>
+Cap\'{\i }tulo 6.
+<fig002.png, id=113, 496.10344pt x 223.58531pt>
 File: fig002.png Graphic file (type png)
 <use fig002.png>
 Package pdftex.def Info: fig002.png  used on input line 15.
@@ -1429,7 +1338,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/mVp0Bf8s8J4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [6
+) [7
 
 
 
@@ -1438,17 +1347,7 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `raciocinio-logico.aux'.
 
  (./raciocinio-logico.tex
-Cap\'{\i }tulo 6.
-
-Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][][][]  
- []
-
-
-Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
-[][][][][][][]  
- []
-
+Cap\'{\i }tulo 7.
 
 
 
@@ -1465,7 +1364,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [7
+) [8
 
 
 
@@ -1483,6 +1382,9 @@ U7Q" at level 4-M from aux file.>
 ) (./media-aritmetica-simples-e-ponderada.aux
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+) (./sequencias.aux
+<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ) (./razao-e-proporcao.aux
 <Reading QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
@@ -1497,28 +1399,27 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ))
 Package rerunfilecheck Info: File `apostila.out' has not changed.
-(rerunfilecheck)             Checksum: F904DF69884C20F6CE29523EB71E449C;1120.
+(rerunfilecheck)             Checksum: 8EF0067EF7F3B613A904837E1D23D2DB;1216.
  ) 
 Here is how much of TeX's memory you used:
- 27741 strings out of 478287
- 512789 string characters out of 5849289
- 909703 words of memory out of 5000000
- 45379 multiletter control sequences out of 15000+600000
- 533341 words of font info for 94 fonts, out of 8000000 for 9000
+ 27796 strings out of 478287
+ 513967 string characters out of 5849289
+ 911397 words of memory out of 5000000
+ 45416 multiletter control sequences out of 15000+600000
+ 538508 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,2321b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,6n,89p,2321b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
-nc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf
-/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
+nc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia
-/putr8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on apostila.pdf (8 pages, 160488 bytes).
+ype1/adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/u
+topia/putr8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb>
+Output written on apostila.pdf (9 pages, 144750 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 60 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
