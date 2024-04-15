@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  14 APR 2024 13:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  14 APR 2024 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -825,7 +825,6 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \py=\skip60
 \pyy=\skip61
 \pxx=\skip62
-\backskip=\skip63
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
@@ -841,8 +840,8 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \page@free=\dimen271
 \premulticols=\dimen272
 \postmulticols=\dimen273
-\multicolsep=\skip64
-\multicolbaselineskip=\skip65
+\multicolsep=\skip63
+\multicolbaselineskip=\skip64
 \partial@page=\box72
 \last@line=\box73
 \maxbalancingoverflow=\dimen274
@@ -908,14 +907,32 @@ content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
 (./conjuntos.aux
 <Reading QR code for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+) (./estatistica.aux
+<Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./funcao-afim.aux
+<Reading QR code for "https://youtu.be/vSWK8_rwDGk&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/gVBGXh3w-5k&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./geometria-plana.aux
+<Reading QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ) (./maximo-divisor-comum-e-minimo-multiplo-comum.aux
 <Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./media-aritmetica-simples-e-ponderada.aux
-<Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+) (./matematica-financeira.aux) (./potenciacao-e-radiciacao.aux
+<Reading QR code for "https://youtu.be/qZ4qR2DjaIE&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./sequencias.aux
-<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
+
+<Reading QR code for "https://youtu.be/1hJNHbCNVUc&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./razao-e-proporcao.aux
 <Reading QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B_BWD
@@ -923,11 +940,29 @@ U7Q" at level 4-M from aux file.>
 ) (./regra-de-tres-simples-e-composta.aux
 <Reading QR code for "https://youtu.be/mVp0Bf8s8J4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/3GMewuLWYz0&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ) (./raciocinio-logico.aux
 <Reading QR code for "https://youtu.be/DQVfJCeKXF8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sequencias.aux
+<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sistemas-de-equacoes.aux
+<Reading QR code for "https://youtu.be/F8m70a4IGRs&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/IQyQnHNrd7g&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sistemas-de-medidas.aux
+<Reading QR code for "https://youtu.be/XsGBfA6alQ4&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./verdades-mentiras.aux
+<Reading QR code for "https://youtu.be/cpwaA8oIobw&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ))
 \openout1 = `apostila.aux'.
@@ -1094,7 +1129,26 @@ usercontent.com/lgfpcampos/Concursos/main/apostila.pdf" in version 7-M as previ
 ously calculated.>
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./apostila.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 4
+0.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) (./apostila.toc
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 4.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 4.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 4.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 4.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 4.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 4.
+)
 \tf@toc=\write5
 \openout5 = `apostila.toc'.
 
@@ -1110,11 +1164,73 @@ l.43 \include{conjuntos}
 
  (./conjuntos.tex
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1
 .
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pzc.fd
+File: ot1pzc.fd 2020/03/25 font definitions for OT1/pzc.
 )
+LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
+(Font)              Font shape `OT1/pzc/m/it' tried instead on input line 1.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{Conjuntos}
+                       
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! You can't use `\prevdepth' in horizontal mode.
+\nointerlineskip ->\prevdepth 
+                              -\@m \p@ 
+l.1 \chapter{Conjuntos}
+                       
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 \chapter{Conjuntos}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.1 \chapter{Conjuntos}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \protect 
+l.1 \chapter{Conjuntos}
+                       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 \chapter{Conjuntos}
+                       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -1128,6 +1244,11 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
+Overfull \hbox (43.7067pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]\T1/futs/m/n/12 - 
+ []
+
+
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -1138,25 +1259,17 @@ l.1 \chapter{Conjuntos}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
 nput line 10.
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 10.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 10.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 10.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 10.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 10.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.43999pt on input line 10.
-
 
 
 <QR code requested for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_B
@@ -1168,14 +1281,141 @@ _BWDU7Q" in version 4-M as previously calculated.>
 
 
 ]
+\openout2 = `estatistica.aux'.
+
+ (./estatistica.tex
+Cap\'{\i }tulo 2.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+<fig001.png, id=143, 417.81094pt x 416.30531pt>
+File: fig001.png Graphic file (type png)
+<use fig001.png>
+Package pdftex.def Info: fig001.png  used on input line 13.
+(pdftex.def)             Requested size: 208.90495pt x 208.15215pt.
+
+
+
+<QR code requested for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+[3
+
+
+
+
+ <./fig001.png (PNG copy)>]
+
+
+<QR code requested for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
+59.
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+
+
+<QR code requested for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [4]
+\openout2 = `funcao-afim.aux'.
+
+ (./funcao-afim.tex
+Cap\'{\i }tulo 3.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/vSWK8_rwDGk&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/vSWK8_rwDGk&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+
+
+
+<QR code requested for "https://youtu.be/gVBGXh3w-5k&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/gVBGXh3w-5k&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [5
+
+
+
+
+]
+\openout2 = `geometria-plana.aux'.
+
+ (./geometria-plana.tex
+Cap\'{\i }tulo 4.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [6
+
+
+
+
+]
 \openout2 = `maximo-divisor-comum-e-minimo-multiplo-comum.aux'.
 
  (./maximo-divisor-comum-e-minimo-multiplo-comum.tex
-Cap\'{\i }tulo 2.
+Cap\'{\i }tulo 5.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
 ! Misplaced alignment tab character &.
 <argument> ...feriado ou não. Para seu cliente X&
                                                   W, ela executa serviços a...
-l.10 {https://youtu.be/o07aeZ4jtj4}
+l.11 {https://youtu.be/o07aeZ4jtj4}
                                    
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1187,7 +1427,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced alignment tab character &.
 <argument> ...os, enquanto que para seu cliente W&
                                                   Z, ela executa serviços a...
-l.10 {https://youtu.be/o07aeZ4jtj4}
+l.11 {https://youtu.be/o07aeZ4jtj4}
                                    
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1204,52 +1444,76 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [3
+) [7
 
 
 
 
 ]
-\openout2 = `media-aritmetica-simples-e-ponderada.aux'.
+\openout2 = `matematica-financeira.aux'.
 
- (./media-aritmetica-simples-e-ponderada.tex
-Cap\'{\i }tulo 3.
-<fig001.png, id=78, 417.81094pt x 416.30531pt>
-File: fig001.png Graphic file (type png)
-<use fig001.png>
-Package pdftex.def Info: fig001.png  used on input line 11.
-(pdftex.def)             Requested size: 208.90495pt x 208.15215pt.
+ (./matematica-financeira.tex
+Cap\'{\i }tulo 6.
 
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
 
 
-<QR code requested for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_B
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+<fig003.png, id=216, 649.67719pt x 487.8225pt>
+File: fig003.png Graphic file (type png)
+<use fig003.png>
+Package pdftex.def Info: fig003.png  used on input line 11.
+(pdftex.def)             Requested size: 324.8378pt x 243.91064pt.
+
+
+
+<QR code requested for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_B
 WDU7Q" in version 0-M.>
 
-<Copying the QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B
+<Copying the QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [4
+) [8
 
 
 
 
- <./fig001.png (PNG copy)>]
-\openout2 = `sequencias.aux'.
+ <./fig003.png (PNG copy)>] [9]
+\openout2 = `potenciacao-e-radiciacao.aux'.
 
- (./sequencias.tex
-Cap\'{\i }tulo 4.
-LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
-9.
-(/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
-File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
-)
+ (./potenciacao-e-radiciacao.tex
+Cap\'{\i }tulo 7.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
 
 
-<QR code requested for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_B
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/qZ4qR2DjaIE&list=UULFeA_dOOqAA4DB92B_B
 WDU7Q" in version 0-M.>
 
-<Copying the QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B
+<Copying the QR code for "https://youtu.be/qZ4qR2DjaIE&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [5
+
+
+
+<QR code requested for "https://youtu.be/1hJNHbCNVUc&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/1hJNHbCNVUc&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [10
 
 
 
@@ -1258,7 +1522,17 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `razao-e-proporcao.aux'.
 
  (./razao-e-proporcao.tex
-Cap\'{\i }tulo 5.
+Cap\'{\i }tulo 8.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
 ! Misplaced alignment tab character &.
 <argument> ...am adquiridos pelo empreendimento A&
                                                   B, que investiu R\$ 1,35 b...
@@ -1315,7 +1589,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [6
+) [11
 
 
 
@@ -1324,11 +1598,21 @@ _BWDU7Q" in version 4-M as previously calculated.>
 \openout2 = `regra-de-tres-simples-e-composta.aux'.
 
  (./regra-de-tres-simples-e-composta.tex
-Cap\'{\i }tulo 6.
-<fig002.png, id=113, 496.10344pt x 223.58531pt>
+Cap\'{\i }tulo 9.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+<fig002.png, id=263, 496.10344pt x 223.58531pt>
 File: fig002.png Graphic file (type png)
 <use fig002.png>
-Package pdftex.def Info: fig002.png  used on input line 15.
+Package pdftex.def Info: fig002.png  used on input line 17.
 (pdftex.def)             Requested size: 248.0511pt x 111.79237pt.
 
 
@@ -1338,16 +1622,34 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/mVp0Bf8s8J4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [7
+
+
+
+<QR code requested for "https://youtu.be/3GMewuLWYz0&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/3GMewuLWYz0&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [12
 
 
 
 
- <./fig002.png (PNG copy)>]
+ <./fig002.png (PNG copy)>] [13]
 \openout2 = `raciocinio-logico.aux'.
 
  (./raciocinio-logico.tex
-Cap\'{\i }tulo 7.
+Cap\'{\i }tulo 10.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
 
 
 
@@ -1364,7 +1666,127 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [8
+) [14
+
+
+
+
+]
+\openout2 = `sequencias.aux'.
+
+ (./sequencias.tex
+Cap\'{\i }tulo 11.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [15
+
+
+
+
+]
+\openout2 = `sistemas-de-equacoes.aux'.
+
+ (./sistemas-de-equacoes.tex
+Cap\'{\i }tulo 12.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/F8m70a4IGRs&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/F8m70a4IGRs&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+
+
+
+<QR code requested for "https://youtu.be/IQyQnHNrd7g&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/IQyQnHNrd7g&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [16
+
+
+
+
+]
+\openout2 = `sistemas-de-medidas.aux'.
+
+ (./sistemas-de-medidas.tex
+Cap\'{\i }tulo 13.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/XsGBfA6alQ4&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/XsGBfA6alQ4&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [17
+
+
+
+
+]
+\openout2 = `verdades-mentiras.aux'.
+
+ (./verdades-mentiras.tex
+Cap\'{\i }tulo 14.
+
+Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][][][]  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
+[][][][][][][]  
+ []
+
+
+
+
+<QR code requested for "https://youtu.be/cpwaA8oIobw&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/cpwaA8oIobw&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [18
 
 
 
@@ -1376,14 +1798,32 @@ content.com/lgfpcampos/Concursos/main/apostila.pdf" at level 7-M from aux file.
 (./conjuntos.aux
 <Reading QR code for "https://youtu.be/SYUNxu4fcF8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+) (./estatistica.aux
+<Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./funcao-afim.aux
+<Reading QR code for "https://youtu.be/vSWK8_rwDGk&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/gVBGXh3w-5k&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./geometria-plana.aux
+<Reading QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ) (./maximo-divisor-comum-e-minimo-multiplo-comum.aux
 <Reading QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./media-aritmetica-simples-e-ponderada.aux
-<Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+) (./matematica-financeira.aux) (./potenciacao-e-radiciacao.aux
+<Reading QR code for "https://youtu.be/qZ4qR2DjaIE&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./sequencias.aux
-<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
+
+<Reading QR code for "https://youtu.be/1hJNHbCNVUc&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./razao-e-proporcao.aux
 <Reading QR code for "https://youtu.be/41SHCi5jX54&list=UULFeA_dOOqAA4DB92B_BWD
@@ -1391,35 +1831,56 @@ U7Q" at level 4-M from aux file.>
 ) (./regra-de-tres-simples-e-composta.aux
 <Reading QR code for "https://youtu.be/mVp0Bf8s8J4&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/3GMewuLWYz0&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ) (./raciocinio-logico.aux
 <Reading QR code for "https://youtu.be/DQVfJCeKXF8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/XXmDn4BTLn8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
+) (./sequencias.aux
+<Reading QR code for "https://youtu.be/whv3ZbhWa9U&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sistemas-de-equacoes.aux
+<Reading QR code for "https://youtu.be/F8m70a4IGRs&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/IQyQnHNrd7g&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./sistemas-de-medidas.aux
+<Reading QR code for "https://youtu.be/XsGBfA6alQ4&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./verdades-mentiras.aux
+<Reading QR code for "https://youtu.be/cpwaA8oIobw&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 ))
 Package rerunfilecheck Info: File `apostila.out' has not changed.
-(rerunfilecheck)             Checksum: 8EF0067EF7F3B613A904837E1D23D2DB;1216.
+(rerunfilecheck)             Checksum: F5E6A7A65531CA7440D1F32AA5490FA5;3368.
  ) 
 Here is how much of TeX's memory you used:
- 27796 strings out of 478287
- 513967 string characters out of 5849289
- 911397 words of memory out of 5000000
- 45416 multiletter control sequences out of 15000+600000
- 538508 words of font info for 99 fonts, out of 8000000 for 9000
+ 28164 strings out of 478287
+ 523823 string characters out of 5849289
+ 928547 words of memory out of 5000000
+ 45620 multiletter control sequences out of 15000+600000
+ 540144 words of font info for 106 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,2321b,590s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
-nc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texli
-ve/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/
+ 84i,6n,89p,2321b,728s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texmf
+/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/fontawesome/FontAwesome.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/u
-topia/putr8a.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1728.pfb></u
-sr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb>
-Output written on apostila.pdf (9 pages, 144750 bytes).
+ype1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/fourier/fourier-ms.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/
+utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on apostila.pdf (19 pages, 586179 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 166 compressed objects within 2 object streams
- 68 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 393 compressed objects within 4 object streams
+ 171 named destinations out of 1000 (max. 500000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
 
