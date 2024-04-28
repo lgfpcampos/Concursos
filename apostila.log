@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  23 APR 2024 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.14)  28 APR 2024 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,6 +920,9 @@ U7Q" at level 4-M from aux file.>
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
+<Reading QR code for "https://youtu.be/iYMMAQnHO5A&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
 <Reading QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
@@ -940,8 +943,11 @@ U7Q" at level 4-M from aux file.>
 ) (./geometria-analitica.aux
 <Reading QR code for "https://youtu.be/QGVsYgfDyiI&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./geometria-plana.aux
+
 <Reading QR code for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./geometria-plana.aux
+<Reading QR code for "https://youtu.be/hcdlzi_qYfc&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B_BWD
@@ -951,6 +957,9 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ) (./matematica-financeira.aux) (./operacoes-basicas.aux
 <Reading QR code for "https://youtu.be/bR6l1KD3z94&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/vYrGL-V7HWE&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./porcentagens.aux
 <Reading QR code for "https://youtu.be/FMTZR0kfBjk&list=UULFeA_dOOqAA4DB92B_BWD
@@ -1016,8 +1025,8 @@ U7Q" at level 4-M from aux file.>
 <Reading QR code for "https://youtu.be/w22pO_WZ_dk&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
-<Reading QR code for "&list=UULFeA_dOOqAA4DB92B_BWDU7Q" at level 3-Q from aux f
-ile.>
+<Reading QR code for "https://youtu.be/Ieug7tvnHsk&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/ka6Kcb0-Vf8&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
@@ -1221,7 +1230,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 ...17}Sistemas de Equações}{22}{chapter.17}
+l.29 ...Padrões em Sequências}{22}{section.16.2}
                                                   % [1
 
 ])
@@ -1401,10 +1410,10 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-<fig001.png, id=216, 417.81094pt x 416.30531pt>
+<fig001.png, id=226, 417.81094pt x 416.30531pt>
 File: fig001.png Graphic file (type png)
 <use fig001.png>
-Package pdftex.def Info: fig001.png  used on input line 13.
+Package pdftex.def Info: fig001.png  used on input line 15.
 (pdftex.def)             Requested size: 208.90495pt x 208.15215pt.
 
 
@@ -1420,6 +1429,20 @@ _BWDU7Q" in version 4-M as previously calculated.>
 
 
  <./fig001.png (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
+41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
+File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
+)
+
+
+<QR code requested for "https://youtu.be/iYMMAQnHO5A&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/iYMMAQnHO5A&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+
 
 
 <QR code requested for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_B
@@ -1427,11 +1450,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-LaTeX Font Info:    Trying to load font information for TS1+futs on input line 
-59.
-(/usr/share/texlive/texmf-dist/tex/latex/fourier/ts1futs.fd
-File: ts1futs.fd 2003/09/14 Fontinst v1.801 font definitions for TS1/futs.
-)
+[6]
 
 
 <QR code requested for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B_B
@@ -1439,7 +1458,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/KkKYd_ILgn8&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [6]
+) [7]
 \openout2 = `expressoes-algebricas.aux'.
 
  (./expressoes-algebricas.tex
@@ -1500,7 +1519,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/vwhbHJj6Ey8&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [7
+) [8
 
 
 
@@ -1544,7 +1563,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/HJKWh3gciuI&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [8
+) [9
 
 
 
@@ -1572,7 +1591,41 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/QGVsYgfDyiI&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [9
+
+! LaTeX Error: Unicode character − (U+2212)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 {https://youtu.be/Z1-x0kVPbks}
+                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character − (U+2212)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 {https://youtu.be/Z1-x0kVPbks}
+                                   
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+
+
+<QR code requested for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [10
 
 
 
@@ -1592,39 +1645,18 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-
-! LaTeX Error: Unicode character − (U+2212)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 {https://youtu.be/Z1-x0kVPbks}
-                                   
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character − (U+2212)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 {https://youtu.be/Z1-x0kVPbks}
-                                   
-You may provide a definition with
-\DeclareUnicodeCharacter 
+<fig004.png, id=323, 492.33937pt x 389.95688pt>
+File: fig004.png Graphic file (type png)
+<use fig004.png>
+Package pdftex.def Info: fig004.png  used on input line 14.
+(pdftex.def)             Requested size: 246.16907pt x 194.97795pt.
 
 
 
-
-<QR code requested for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B_B
+<QR code requested for "https://youtu.be/hcdlzi_qYfc&list=UULFeA_dOOqAA4DB92B_B
 WDU7Q" in version 0-M.>
 
-<Copying the QR code for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B
+<Copying the QR code for "https://youtu.be/hcdlzi_qYfc&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
 
 
@@ -1634,15 +1666,16 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [10
+) [11
 
 
 
 
-]
+ <./fig004.png (PNG copy)>] [12]
 \openout2 = `maximo-divisor-comum-e-minimo-multiplo-comum.aux'.
 
- (./maximo-divisor-comum-e-minimo-multiplo-comum.tex
+
+(./maximo-divisor-comum-e-minimo-multiplo-comum.tex
 Cap\'{\i }tulo 8.
 
 Overfull \hbox (39.3747pt too wide) in paragraph at lines 1--1
@@ -1686,7 +1719,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/o07aeZ4jtj4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [11
+) [13
 
 
 
@@ -1706,7 +1739,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-<fig003.png, id=325, 649.67719pt x 487.8225pt>
+<fig003.png, id=357, 649.67719pt x 487.8225pt>
 File: fig003.png Graphic file (type png)
 <use fig003.png>
 Package pdftex.def Info: fig003.png  used on input line 11.
@@ -1719,7 +1752,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [12
+) [14
 
 
 
@@ -1747,7 +1780,15 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/bR6l1KD3z94&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [13
+
+
+
+<QR code requested for "https://youtu.be/vYrGL-V7HWE&list=UULFeA_dOOqAA4DB92B_B
+WDU7Q" in version 0-M.>
+
+<Copying the QR code for "https://youtu.be/vYrGL-V7HWE&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
+) [15
 
 
 
@@ -1791,7 +1832,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/YPlaAEBhOfA&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [14
+) [16
 
 
 
@@ -1827,7 +1868,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/1hJNHbCNVUc&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [15
+) [17
 
 
 
@@ -1863,7 +1904,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/OgFUUsHP4hU&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [16
+) [18
 
 
 
@@ -1947,7 +1988,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/jgkJfktwl98&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [17
+) [19
 
 
 
@@ -1967,7 +2008,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 1--1
 [][][][][][][]  
  []
 
-<fig002.png, id=425, 496.10344pt x 223.58531pt>
+<fig002.png, id=463, 496.10344pt x 223.58531pt>
 File: fig002.png Graphic file (type png)
 <use fig002.png>
 Package pdftex.def Info: fig002.png  used on input line 17.
@@ -1988,7 +2029,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/3GMewuLWYz0&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-[18
+[20
 
 
 
@@ -2001,7 +2042,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/bjrOtZc6GnQ&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [19]
+) [21]
 \openout2 = `sequencias.aux'.
 
  (./sequencias.tex
@@ -2040,12 +2081,12 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/OkKbixuU2KU&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [20
+) [22
 
 
 
 
-] [21]
+] [23]
 \openout2 = `sistemas-de-equacoes.aux'.
 
  (./sistemas-de-equacoes.tex
@@ -2076,7 +2117,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/IQyQnHNrd7g&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [22
+) [24
 
 
 
@@ -2104,7 +2145,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/XsGBfA6alQ4&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [23
+) [25
 
 
 
@@ -2148,7 +2189,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/w22pO_WZ_dk&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-[24
+[26
 
 
 
@@ -2156,33 +2197,11 @@ _BWDU7Q" in version 4-M as previously calculated.>
 ]
 
 
-<QR code requested for "https://youtu.be/kQjrUqqL9eM&list=UULFeA_dOOqAA4DB92B_B
+<QR code requested for "https://youtu.be/Ieug7tvnHsk&list=UULFeA_dOOqAA4DB92B_B
 WDU7Q" in version 0-M.>
 
-<Calculating QR code for "https://youtu.be/kQjrUqqL9eM&list=UULFeA_dOOqAA4DB92B
-_BWDU7Q" in version 4-M.>
-<Splitting off block 1> <Splitting off block 2> <Making error block 1>
-<Making error block 2> <Interleaving datablocks of length 32\ and 33:  1, 2,
-3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23,
-24, 25, 26, 27, 28, 29, 30, 31, 32, .>
-<Interleaving errorblocks of length 18:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
-12, 13, 14, 15, 16, 17, 18, .><Interleaving complete.> <Writing data...
-done.>
-<Applying Mask 0... done. Calculating penalty... penalty is 1319>
-<Applying Mask 1... done. Calculating penalty... penalty is 1283>
-<Applying Mask 2... done. Calculating penalty... penalty is 1485>
-<Applying Mask 3... done. Calculating penalty... penalty is 1485>
-<Applying Mask 4... done. Calculating penalty... penalty is 1424>
-<Applying Mask 5... done. Calculating penalty... penalty is 1364>
-<Applying Mask 6... done. Calculating penalty... penalty is 1442>
-<Applying Mask 7... done. Calculating penalty... penalty is 1346>
-<Selected Mask 1>
-<Encoding and writing format string... done.>
-<Encoding and writing version information... done.>
-<Saving QR code to memory... done.>
-<Writing QR code to aux file... done.>
-<Printing matrix... done.>
-
+<Copying the QR code for "https://youtu.be/Ieug7tvnHsk&list=UULFeA_dOOqAA4DB92B
+_BWDU7Q" in version 4-M as previously calculated.>
 
 
 
@@ -2207,7 +2226,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/16Po-EIt1ec&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [25]
+) [27]
 \openout2 = `raciocinio-logico-matematico.aux'.
 
  (./raciocinio-logico-matematico.tex
@@ -2230,7 +2249,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/DEqIJTPZjEY&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [26
+) [28
 
 
 
@@ -2258,7 +2277,7 @@ WDU7Q" in version 0-M.>
 
 <Copying the QR code for "https://youtu.be/cpwaA8oIobw&list=UULFeA_dOOqAA4DB92B
 _BWDU7Q" in version 4-M as previously calculated.>
-) [27
+) [29
 
 
 
@@ -2278,6 +2297,9 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ) (./estatistica.aux
 <Reading QR code for "https://youtu.be/BvsQZctqarQ&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/iYMMAQnHO5A&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/fDPDxc8zjzY&list=UULFeA_dOOqAA4DB92B_BWD
@@ -2300,8 +2322,11 @@ U7Q" at level 4-M from aux file.>
 ) (./geometria-analitica.aux
 <Reading QR code for "https://youtu.be/QGVsYgfDyiI&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
-) (./geometria-plana.aux
+
 <Reading QR code for "https://youtu.be/Z1-x0kVPbks&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+) (./geometria-plana.aux
+<Reading QR code for "https://youtu.be/hcdlzi_qYfc&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/YP9XL4Pdrik&list=UULFeA_dOOqAA4DB92B_BWD
@@ -2311,6 +2336,9 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ) (./matematica-financeira.aux) (./operacoes-basicas.aux
 <Reading QR code for "https://youtu.be/bR6l1KD3z94&list=UULFeA_dOOqAA4DB92B_BWD
+U7Q" at level 4-M from aux file.>
+
+<Reading QR code for "https://youtu.be/vYrGL-V7HWE&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 ) (./porcentagens.aux
 <Reading QR code for "https://youtu.be/FMTZR0kfBjk&list=UULFeA_dOOqAA4DB92B_BWD
@@ -2376,7 +2404,7 @@ U7Q" at level 4-M from aux file.>
 <Reading QR code for "https://youtu.be/w22pO_WZ_dk&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
-<Reading QR code for "https://youtu.be/kQjrUqqL9eM&list=UULFeA_dOOqAA4DB92B_BWD
+<Reading QR code for "https://youtu.be/Ieug7tvnHsk&list=UULFeA_dOOqAA4DB92B_BWD
 U7Q" at level 4-M from aux file.>
 
 <Reading QR code for "https://youtu.be/ka6Kcb0-Vf8&list=UULFeA_dOOqAA4DB92B_BWD
@@ -2395,16 +2423,16 @@ U7Q" at level 4-M from aux file.>
 U7Q" at level 4-M from aux file.>
 ))
 Package rerunfilecheck Info: File `apostila.out' has not changed.
-(rerunfilecheck)             Checksum: 4BA12AC6BD99413351AB1B13FC513897;4956.
+(rerunfilecheck)             Checksum: FD51BBC30F5BD740C2D0B912DAF34B0E;5314.
  ) 
 Here is how much of TeX's memory you used:
- 31866 strings out of 478287
- 589501 string characters out of 5849289
- 1034523 words of memory out of 5000000
- 49124 multiletter control sequences out of 15000+600000
- 541103 words of font info for 109 fonts, out of 8000000 for 9000
+ 28623 strings out of 478287
+ 537431 string characters out of 5849289
+ 1038023 words of memory out of 5000000
+ 45859 multiletter control sequences out of 15000+600000
+ 545633 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,6n,257p,2321b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,7n,89p,2321b,863s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/share/texmf
 /fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/
@@ -2415,10 +2443,10 @@ utopia/putb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr
 /share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on apostila.pdf (28 pages, 654133 bytes).
+Output written on apostila.pdf (30 pages, 685402 bytes).
 PDF statistics:
- 703 PDF objects out of 1000 (max. 8388607)
- 647 compressed objects within 7 object streams
- 314 named destinations out of 1000 (max. 500000)
- 284 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 744 PDF objects out of 1000 (max. 8388607)
+ 685 compressed objects within 7 object streams
+ 333 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
 
